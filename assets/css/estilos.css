@@ -22,6 +22,10 @@ body {
 
 /* Contacto */
 
+#boton{
+  margin-top: 50%;
+}
+
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
